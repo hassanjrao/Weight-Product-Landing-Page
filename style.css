@@ -116,15 +116,18 @@ center,
 
 .main-content-second {
   background-image: url(images/s3.jpg);
+  background-color: #F5F5F5;
   background-repeat: no-repeat;
   background-size: 100%;
   flex-direction: row;
+  background-color: ;
   justify-content: center;
   padding: 60px 180px;
   padding-left: 410pxx;
   margin-top: -1%;
   position: relative;
   z-index: 1;
+  clip-path: polygon(50% 0%, 100% 0, 100% 100%, 49% 81%, 0 100%, 0 0);
 }
 .main-content-second-l-text {
   text-align: justify;
@@ -164,8 +167,8 @@ center,
 .main-content-third {
   flex-direction: column;
   background: #f5f5f5;
-  padding: 90px;
-  margin-top: -1.5%;
+  padding: 125px 90px;
+  margin-top: -6.5%;
   position: relative;
 }
 
