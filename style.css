@@ -127,7 +127,7 @@ center,
   margin-top: -1%;
   position: relative;
   z-index: 1;
-  clip-path: polygon(50% 0%, 100% 0, 100% 100%, 49% 81%, 0 100%, 0 0);
+  clip-path:polygon(50% 0%, 79% 0, 100% 0, 100% 100%, 78% 92%, 52% 86%, 32% 87%, 0 100%, 0 0, 20% 0)
 }
 .main-content-second-l-text {
   text-align: justify;
