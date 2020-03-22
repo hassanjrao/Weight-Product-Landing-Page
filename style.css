@@ -118,7 +118,7 @@ center,
   background-image: url(images/s3.jpg);
   background-color: #F5F5F5;
   background-repeat: no-repeat;
-  background-size: 100%;
+  background-size: 100% 100%;
   flex-direction: row;
   background-color: ;
   justify-content: center;
@@ -127,7 +127,7 @@ center,
   margin-top: -1%;
   position: relative;
   z-index: 1;
-  clip-path:polygon(50% 0%, 79% 0, 100% 0, 100% 100%, 78% 92%, 52% 86%, 32% 87%, 0 100%, 0 0, 20% 0)
+  
 }
 .main-content-second-l-text {
   text-align: justify;
@@ -150,6 +150,7 @@ center,
   font-weight: bolder;
   width: 25%;
   text-align: center;
+  margin-bottom: 40px;
 }
 
 .main-content-second-r {
